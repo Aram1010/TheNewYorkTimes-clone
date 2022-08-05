@@ -11,3 +11,7 @@ this project is a clone of The New York Times with React Js
    <img src="https://www.storybench.org/wp-content/uploads/2018/01/nytdev.jpg" width="200" alt="The New York Times API"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/OpenWeather-Logo.jpg" width="200" alt="OpenWeather API"/>
 </div>
+
+- Preview
+
+<img src="https://github.com/10Arman10/TheNewYorkTimes-clone/blob/master/src/assets/Screenshot%202022-08-06%20003834.png"/>
